@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <element1>
+        <element2>Alex</element2>
+        <element3>Orlov</element3>
+    </element1>
+    <element4>hi</element4>
+    <element5>
+        <element6>world</element6>
+    </element5>
+</root>

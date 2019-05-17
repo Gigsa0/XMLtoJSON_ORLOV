@@ -1,0 +1,29 @@
+{
+  "name" : "root",
+  "text" : null,
+  "child" : [ {
+    "name" : "element1",
+    "text" : null,
+    "child" : [ {
+      "name" : "element2",
+      "text" : "Alex",
+      "child" : [ ]
+    }, {
+      "name" : "element3",
+      "text" : "Orlov",
+      "child" : [ ]
+    } ]
+  }, {
+    "name" : "element4",
+    "text" : "hi",
+    "child" : [ ]
+  }, {
+    "name" : "element5",
+    "text" : null,
+    "child" : [ {
+      "name" : "element6",
+      "text" : "world",
+      "child" : [ ]
+    } ]
+  } ]
+}
